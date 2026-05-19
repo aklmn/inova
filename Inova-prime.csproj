@@ -17,4 +17,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="UnmanagedExports" Version="1.2.7"/>
+  </ItemGroup>
 </Project>
